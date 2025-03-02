@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>malabar_melastome241_jpg.rf.8c0446b3aa93028e49563f4a9660513d.jpg</filename>
+	<path>malabar_melastome241_jpg.rf.8c0446b3aa93028e49563f4a9660513d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>malabar melastome</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>68</xmin>
+			<xmax>155</xmax>
+			<ymin>72</ymin>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

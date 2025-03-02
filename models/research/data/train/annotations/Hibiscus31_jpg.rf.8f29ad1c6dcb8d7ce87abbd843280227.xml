@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Hibiscus31_jpg.rf.8f29ad1c6dcb8d7ce87abbd843280227.jpg</filename>
+	<path>Hibiscus31_jpg.rf.8f29ad1c6dcb8d7ce87abbd843280227.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hibiscus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>55</xmin>
+			<xmax>171</xmax>
+			<ymin>40</ymin>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

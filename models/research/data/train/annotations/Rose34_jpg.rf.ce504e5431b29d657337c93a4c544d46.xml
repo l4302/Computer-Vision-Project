@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Rose34_jpg.rf.ce504e5431b29d657337c93a4c544d46.jpg</filename>
+	<path>Rose34_jpg.rf.ce504e5431b29d657337c93a4c544d46.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>55</xmin>
+			<xmax>183</xmax>
+			<ymin>50</ymin>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>

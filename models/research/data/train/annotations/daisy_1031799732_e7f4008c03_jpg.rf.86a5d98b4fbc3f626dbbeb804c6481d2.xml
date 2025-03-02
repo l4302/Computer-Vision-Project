@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>daisy_1031799732_e7f4008c03_jpg.rf.86a5d98b4fbc3f626dbbeb804c6481d2.jpg</filename>
+	<path>daisy_1031799732_e7f4008c03_jpg.rf.86a5d98b4fbc3f626dbbeb804c6481d2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>daisy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>501</xmax>
+			<ymin>7</ymin>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

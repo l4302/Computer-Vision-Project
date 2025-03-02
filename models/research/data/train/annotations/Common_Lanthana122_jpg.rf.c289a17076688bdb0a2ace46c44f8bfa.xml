@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Common_Lanthana122_jpg.rf.c289a17076688bdb0a2ace46c44f8bfa.jpg</filename>
+	<path>Common_Lanthana122_jpg.rf.c289a17076688bdb0a2ace46c44f8bfa.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>common lanthana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>86</xmin>
+			<xmax>154</xmax>
+			<ymin>55</ymin>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>

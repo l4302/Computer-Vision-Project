@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>sunflower125_jpg.rf.b0e7b1a4b2e21beea0f3cdeb309fec7c.jpg</filename>
+	<path>sunflower125_jpg.rf.b0e7b1a4b2e21beea0f3cdeb309fec7c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sunflower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>24</xmin>
+			<xmax>203</xmax>
+			<ymin>17</ymin>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

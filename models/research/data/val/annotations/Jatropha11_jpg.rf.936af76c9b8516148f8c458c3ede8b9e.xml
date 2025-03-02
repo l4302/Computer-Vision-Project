@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Jatropha11_jpg.rf.936af76c9b8516148f8c458c3ede8b9e.jpg</filename>
+	<path>Jatropha11_jpg.rf.936af76c9b8516148f8c458c3ede8b9e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jatropha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>76</xmin>
+			<xmax>137</xmax>
+			<ymin>74</ymin>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>

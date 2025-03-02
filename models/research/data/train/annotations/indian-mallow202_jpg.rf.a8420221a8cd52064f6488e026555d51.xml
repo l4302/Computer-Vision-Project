@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>indian-mallow202_jpg.rf.a8420221a8cd52064f6488e026555d51.jpg</filename>
+	<path>indian-mallow202_jpg.rf.a8420221a8cd52064f6488e026555d51.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>indian mallow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>61</xmin>
+			<xmax>140</xmax>
+			<ymin>80</ymin>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

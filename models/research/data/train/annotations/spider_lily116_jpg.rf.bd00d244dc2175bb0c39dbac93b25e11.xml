@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>spider_lily116_jpg.rf.bd00d244dc2175bb0c39dbac93b25e11.jpg</filename>
+	<path>spider_lily116_jpg.rf.bd00d244dc2175bb0c39dbac93b25e11.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spider lily</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>64</xmin>
+			<xmax>159</xmax>
+			<ymin>43</ymin>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

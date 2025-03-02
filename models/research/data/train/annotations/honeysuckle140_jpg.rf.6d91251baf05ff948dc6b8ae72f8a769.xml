@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>honeysuckle140_jpg.rf.6d91251baf05ff948dc6b8ae72f8a769.jpg</filename>
+	<path>honeysuckle140_jpg.rf.6d91251baf05ff948dc6b8ae72f8a769.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>honeysuckle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>93</xmin>
+			<xmax>142</xmax>
+			<ymin>73</ymin>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

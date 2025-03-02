@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>champaka112_jpg.rf.b4b93747924d72b96cf48f4ea47d6ff2.jpg</filename>
+	<path>champaka112_jpg.rf.b4b93747924d72b96cf48f4ea47d6ff2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>champaka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>63</xmin>
+			<xmax>200</xmax>
+			<ymin>21</ymin>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

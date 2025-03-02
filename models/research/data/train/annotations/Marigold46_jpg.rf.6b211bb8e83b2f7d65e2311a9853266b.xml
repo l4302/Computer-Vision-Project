@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Marigold46_jpg.rf.6b211bb8e83b2f7d65e2311a9853266b.jpg</filename>
+	<path>Marigold46_jpg.rf.6b211bb8e83b2f7d65e2311a9853266b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>marigold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>39</xmin>
+			<xmax>171</xmax>
+			<ymin>56</ymin>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>

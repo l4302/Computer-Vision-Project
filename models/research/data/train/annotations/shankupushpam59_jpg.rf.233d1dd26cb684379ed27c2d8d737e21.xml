@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>shankupushpam59_jpg.rf.233d1dd26cb684379ed27c2d8d737e21.jpg</filename>
+	<path>shankupushpam59_jpg.rf.233d1dd26cb684379ed27c2d8d737e21.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shankupushpam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>54</xmin>
+			<xmax>137</xmax>
+			<ymin>60</ymin>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

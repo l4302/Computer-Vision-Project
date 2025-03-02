@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>chitrak149_jpg.rf.94ddf2359875d07ae11ae303ea75bd0a.jpg</filename>
+	<path>chitrak149_jpg.rf.94ddf2359875d07ae11ae303ea75bd0a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chitrak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>61</xmin>
+			<xmax>123</xmax>
+			<ymin>86</ymin>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>
